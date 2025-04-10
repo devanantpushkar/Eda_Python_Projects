@@ -7,6 +7,7 @@ This repository contains a collection of exploratory data analysis (EDA) project
 | Dataset         | Description                          |
 |-----------------|--------------------------------------|
 | Adult Income    | Exploratory analysis of demographic data to understand trends and patterns related to income. |
+| Udemy Courses   | Analysis of online course data to identify key factors influencing course popularity and pricing. |
 
 ## Technologies Used
 
