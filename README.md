@@ -10,7 +10,7 @@ This repository contains a collection of exploratory data analysis (EDA) project
 | Udemy Courses   | Analysis of online course data to identify key factors influencing course popularity and pricing. |
 | Salaries        | Exploratory analysis of salary data to examine the impact of job title, education, and experience on compensation. |
 | Accident        | In-depth analysis of accident records to identify causes, high-risk areas, time trends, and contributing factors. |
-
+| Train           | In-depth analysis of accident records to identify causes, high-risk areas, time trends, and contributing factors. |
 ## Technologies Used
 
 - Python
